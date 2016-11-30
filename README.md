@@ -1,14 +1,14 @@
-## Landing-page
+# Landing-page
 
 This is responsive mobile friendly landing page.
 
-# Stack
+## Stack
 *Plain HTML; 
 *Plain CSS; 
 *Bootstrap3; 
 *JQ.
 
-# Features
+## Features
 *Google Map API;
 *Smooth scroll to section;
 *Responsive slider
